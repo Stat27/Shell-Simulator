@@ -1,6 +1,7 @@
 # Shell379 - A Mini Shell Project
 
-Shell379 is a minimalistic shell program that accepts and executes various commands. It allows you to manage processes, execute commands, and control their execution. This README provides an overview of the available commands and how to use them.
+Shell379 is a minimalistic shell program that accepts and executes various commands. It allows you to manage processes, execute commands, and control their execution.
+Makefile is included for compiling. When everything is done, ./shell379 in terminal to start. 
 
 ## Table of Contents
 
