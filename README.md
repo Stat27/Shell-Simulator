@@ -1,1 +1,1 @@
-# Shell-Simulator
+# Shell-Terminal-Simulator
